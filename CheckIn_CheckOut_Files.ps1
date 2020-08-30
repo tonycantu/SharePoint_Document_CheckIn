@@ -285,4 +285,4 @@ Function New-Report
 }
 
 
-Start-Script -SPSite "https://army.deps.mil/NETCOM/sites/106SB/SharePointTraining/ms" -ReportOnly $false
+Start-Script -SPSite "" -ReportOnly $false
